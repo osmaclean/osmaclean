@@ -31,7 +31,7 @@
 ##
 <div style="display: inline_block">
   <h3>Anothers</h3>
-  <img align="center" alt="Lucas-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">-
+  <img align="center" alt="Lucas-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> -
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">-
   <img align="center" alt="Lucas-Gitflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">-
   <img align="center" alt="Lucas-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">-
