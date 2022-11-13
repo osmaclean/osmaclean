@@ -20,3 +20,5 @@ Apaixonado por programação, tecnologia e por contribuir com a vida do próximo
 ## E-mail para contato 📧
 
 contatolucasmaclean@gmail.com
+
+ ![Snake animation](https://github.com/osmaclean/osmaclean/blob/output/github-contribution-grid-snake.svg)
