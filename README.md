@@ -29,7 +29,7 @@
 <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 ##
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h3>Anothers</h3>
   <img align="center" alt="Lucas-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">-
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">-
@@ -44,8 +44,9 @@
 <br>
 </div>
 
+<div align="center">
 Apaixonado por programação, tecnologia e por contribuir com a vida do próximo.
+</div>
 
 ![Snake animation](https://github.com/osmaclean/osmaclean/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
