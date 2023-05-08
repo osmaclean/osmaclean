@@ -27,8 +27,12 @@
 </div>
 
 <hr>
+
+<div>
 <h3>Studying in this Moment:</h3>
 <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+</div>
 
 <hr>
 <div style="display: inline_block">
