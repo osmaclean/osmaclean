@@ -16,23 +16,33 @@
 <div align="center"> 
 <a href = "mailto:contatolucasmaclean@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-maclean-031205256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div><hr>
-<div style="display: inline_block"><br>
-  <h3>Main Skills → Front-end</h3>
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">-
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">-
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-
-  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">-
-  <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">-
-  <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
+ </div>
+ 
+ <hr>
+  <div style="display: inline_block">
+    <h3>Main Skills → Front-end</h3>
+    <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-
+    <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">-
+    <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">-
+    <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-
+    <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">-
+    <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  </div>
+<hr>
 
+<div style="display: inline_block">
+  <h3>My Design Tools</h3>
+  <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">-
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">-
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+</div>
 <hr>
 
 <div>
 <h3>Studying in this Moment:</h3>
 <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+<img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+<img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 </div>
 
 <hr>
@@ -42,7 +52,7 @@
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">-
   <img align="center" alt="Lucas-Gitflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">-
   <img align="center" alt="Lucas-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">-
-  <img align="center" alt="Lucas-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Lucas-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 <hr>
 <div align="center">
