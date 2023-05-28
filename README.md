@@ -64,7 +64,8 @@
 
 <div align="center">
   Apaixonado por programação, tecnologia e por contribuir com a vida do próximo.
-</div><hr>
+</div>
+<hr>
 
 ![Snake animation](https://github.com/osmaclean/osmaclean/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
