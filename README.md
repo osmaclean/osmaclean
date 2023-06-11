@@ -28,7 +28,7 @@
     <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-
     <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">-
     <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">-
-  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   </div>
 <hr>
 
@@ -38,6 +38,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">-
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 </div>
+
 <hr>
 
 <div>
@@ -56,7 +57,9 @@
   <img align="center" alt="Lucas-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">-
   <img align="center" alt="Lucas-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
+
 <hr>
+
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{osmaclean}/count.svg" /></p> 
@@ -66,6 +69,7 @@
 <div align="center">
   Apaixonado por programação, tecnologia e por contribuir com a vida do próximo.
 </div>
+
 <hr>
 
 ![Snake animation](https://github.com/osmaclean/osmaclean/blob/output/github-contribution-grid-snake.svg)
