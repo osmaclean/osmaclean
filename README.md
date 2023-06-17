@@ -67,7 +67,7 @@
 </div>
 
 <div align="center">
-  Apaixonado por programação, tecnologia e por contribuir com a vida do próximo.
+  Passionate about programming, technology and contributing to the lives of others.
 </div>
 
 <hr>
