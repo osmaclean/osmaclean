@@ -83,4 +83,6 @@
 
 <hr>
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/osmaclean/osmaclean/output/github-contribution-grid-snake.svg" />
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9F6D3&height=120&section=footer"/>
