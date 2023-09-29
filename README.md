@@ -6,16 +6,19 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=osmaclean&show_icons=true&count_private=true&hide_border=true&title_color=E8E5BC&icon_color=E8E5BC&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Maclean github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmaclean&layout=compact&hide_border=true&title_color=E8E5BC&text_color=E8E5BC&bg_color=0d1117" />
 </div>
+
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osmaclean&bg_color=F9F6D3&color=2d2d2d&line=7d7d7d&point=2d2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <hr>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osmaclean&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=osmaclean&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 
 <div align="center"> 
-  <a href = "mailto:contatolucasmaclean@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-     badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatolucasmaclean@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-maclean-031205256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
  
