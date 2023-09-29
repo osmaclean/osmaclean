@@ -83,6 +83,9 @@
 
 <hr>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/osmaclean/osmaclean/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" alt="snake eating my contributions" srcset="https://raw.githubusercontent.com/osmaclean/osmaclean/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/osmaclean/osmaclean/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9F6D3&height=120&section=footer"/>
