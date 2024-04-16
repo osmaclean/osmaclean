@@ -46,7 +46,7 @@
 <div align="center">
   <h3>Main skills → Front-end</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,sass,tailwind,bootstrap,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,react,sass,tailwind,bootstrap,nextjs)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -54,7 +54,7 @@
 <div align="center">
   <h3>Main skills → Back-end</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,vitest,sqlite,prisma,mysql,postgres,jest,express)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -62,7 +62,7 @@
 <div align="center">
   <h3>Studying in this moment:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=redux,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -78,7 +78,7 @@
 <div align="center">
   <h3>My Programming tools</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,vercel,vite,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,linux,markdown,vercel,powershell,netlify,npm,obsidian,githubactions,vite,vscode)](https://skillicons.dev)
 </div>
 
 <hr>
